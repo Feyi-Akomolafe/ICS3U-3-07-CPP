@@ -1,4 +1,4 @@
 # ICS3U-3-07-CPP
 
-[![Mr Coxall's Super Linter](https://github.com/Feyi-Akomolafe/ICS3U-Unit3-06-Python/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Feyi-Akomolafe/Feyi-Akomolafe/ICS3U-Unit3-06-Python/actions/)
+[![Mr Coxall's Super Linter](https://github.com/Feyi-Akomolafe/ICS3U-Unit3-07-CPP/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Feyi-Akomolafe/Feyi-Akomolafe/ICS3U-Unit3-07-CPP/actions/)
 
